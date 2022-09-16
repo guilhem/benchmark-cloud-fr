@@ -25,6 +25,7 @@ Lister les fonctionnalités et leurs disponibilités chez les clouds FR
 | Passerelle NAT |
 | Repartiteur de Charge |
 | ↳ + privé |
+| Hub VPN |
 
 ### Kubernetes
 
