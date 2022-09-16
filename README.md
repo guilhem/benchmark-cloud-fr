@@ -38,3 +38,13 @@ Lister les fonctionnalités et leurs disponibilités chez les clouds FR
 | OS managé |
 | ↳ + container native |
 | Gestion des ressources par CRD |
+
+## Outillage
+
+|  | OVHcloud | Scaleway | Outscale | Clever Cloud |
+| - | -       | -        | -        | -            |
+| CLI |
+| Terraform provider |
+| Ansible |
+| Crossplane |
+| Pulumi |
