@@ -8,10 +8,13 @@ Lister les fonctionnalités et leurs disponibilités chez les clouds FR
 
 |  | OVHcloud | Scaleway | Outscale | Clever Cloud |
 | - | -       | -        | -        | -            |
-| IAM |
-| Shell en ligne |
 | Aggregation des logs |
+| IAM |
 | Métrologie |
+| SSO |
+| Shell en ligne |
+| Support |
+| Tags |
 
 ### Réseau
 
@@ -26,6 +29,32 @@ Lister les fonctionnalités et leurs disponibilités chez les clouds FR
 | Repartiteur de Charge |
 | ↳ + privé |
 | Hub VPN |
+| Export des flow |
+| IPv6 |
+| Zone de disponibilité |
+
+### Serverless
+
+|  | OVHcloud | Scaleway | Outscale | Clever Cloud |
+| - | -       | -        | -        | -            |
+| Architecture arm |
+| Framework de dev |
+| Runtime |
+| ↳ + nodejs
+| ↳ + python
+| ↳ + custom
+| Accès au VPC |
+| Assume un rôle |
+| Invocation sur un évenement |
+
+### Stockage
+
+|  | OVHcloud | Scaleway | Outscale | Clever Cloud |
+| - | -       | -        | -        | -            |
+| Objet S3 compatible |
+| local persistant |
+| partagé |
+| snapshot |
 
 ### Kubernetes
 
