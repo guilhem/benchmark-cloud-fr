@@ -30,7 +30,7 @@ Lister les fonctionnalités et leurs disponibilités chez les clouds FR
 | ↳ + privé |
 | Hub VPN |
 | Export des flow |
-| IPv6 |
+| IPv6 |
 | Zone de disponibilité |
 
 ### Serverless
@@ -45,7 +45,7 @@ Lister les fonctionnalités et leurs disponibilités chez les clouds FR
 | ↳ + custom
 | Accès au VPC |
 | Assume un rôle |
-| Invocation sur un évenement |
+| Invocation sur un évenement |
 
 ### Stockage
 
@@ -53,8 +53,19 @@ Lister les fonctionnalités et leurs disponibilités chez les clouds FR
 | - | -       | -        | -        | -            |
 | Objet S3 compatible |
 | local persistant |
-| partagé |
-| snapshot |
+| partagé |
+| snapshot |
+| S3 life-cycle |
+| S3 archive |
+
+### Database
+
+|  | OVHcloud | Scaleway | Outscale | Clever Cloud |
+| - | -       | -        | -        | -            |
+| Relational (MySQL, Postgres) |
+| NoSQL (MongoDB, Cassandra) |
+| Datawarehouse  |
+| ETL |
 
 ### Kubernetes
 
@@ -78,3 +89,13 @@ Lister les fonctionnalités et leurs disponibilités chez les clouds FR
 | Ansible |
 | Crossplane |
 | Pulumi |
+
+## Compliance
+
+|  | OVHcloud | Scaleway | Outscale | Clever Cloud |
+| - | -       | -        | -        | -            |
+| ISO 27001 |
+| HDS |
+| SecNumCloud |
+| PCI-DSS |
+| SOC1/2 |
