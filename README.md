@@ -9,12 +9,25 @@ Lister les fonctionnalités et leurs disponibilités chez les clouds FR
 |  | OVHcloud | Scaleway | Outscale | Clever Cloud |
 | - | -       | -        | -        | -            |
 | Aggregation des logs |
-| IAM |
+| Gestion d'identité |
+| Gestion des droits |
+| ↳ + avec des rôles |
 | Métrologie |
 | SSO |
 | Shell en ligne |
 | Support |
-| Tags |
+| Étiquetage (Tags) |
+| Protection des objets |
+| Audit |
+
+### Calcul
+
+|  | OVHcloud | Scaleway | Outscale | Clever Cloud |
+| - | -       | -        | -        | -            |
+| Architecture ARM |
+| GPU |
+| Accélérateur d'IA (NPU) |
+| Instances éphémères (spot) |
 
 ### Réseau
 
@@ -37,7 +50,6 @@ Lister les fonctionnalités et leurs disponibilités chez les clouds FR
 
 |  | OVHcloud | Scaleway | Outscale | Clever Cloud |
 | - | -       | -        | -        | -            |
-| Architecture arm |
 | Framework de dev |
 | Runtime |
 | ↳ + nodejs
@@ -51,12 +63,17 @@ Lister les fonctionnalités et leurs disponibilités chez les clouds FR
 
 |  | OVHcloud | Scaleway | Outscale | Clever Cloud |
 | - | -       | -        | -        | -            |
-| Objet S3 compatible |
 | local persistant |
 | partagé |
 | snapshot |
-| S3 life-cycle |
-| S3 archive |
+
+### Stockage Objet
+
+|  | OVHcloud | Scaleway | Outscale | Clever Cloud |
+| - | -       | -        | -        | -            |
+| Objet S3 compatible |
+| Life-cycle |
+| Archive |
 
 ### Database
 
@@ -66,6 +83,7 @@ Lister les fonctionnalités et leurs disponibilités chez les clouds FR
 | NoSQL (MongoDB, Cassandra) |
 | Datawarehouse  |
 | ETL |
+| Evenements (pubsub) |
 
 ### Kubernetes
 
