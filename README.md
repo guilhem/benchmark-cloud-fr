@@ -9,7 +9,7 @@ Lister les fonctionnalités et leurs disponibilités chez les clouds FR
 |  | OVHcloud | Scaleway | Outscale | Clever Cloud |
 | - | -       | -        | -        | -            |
 | Aggregation des logs |
-| Gestion d'identité |
+| Gestion d'identité | | ✅ [beta](https://www.scaleway.com/fr/betas/#iam-identity-and-access-management) | | |
 | Gestion des droits |
 | ↳ + avec des rôles |
 | Métrologie |
