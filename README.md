@@ -84,6 +84,7 @@ Lister les fonctionnalités et leurs disponibilités chez les clouds FR
 | Datawarehouse  |
 | ETL |
 | Evenements (pubsub) |
+| Time Series |
 
 ### Kubernetes
 
